@@ -70,4 +70,4 @@ To request additions or changes, open an issue or submit a pull request.
 
 ---
 
-Exercise answers for "Big Java: Early Objects (7e)"
+Exercise answers for "Big Java: Early Objects (7e)
